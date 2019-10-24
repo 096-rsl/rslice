@@ -1,0 +1,398 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+header{
+	width: 100%;
+	float: left;
+	
+
+}
+
+h2{
+	text-align: center;
+}
+
+/*all button css starts*/
+
+.SubmitBtn_Two{
+	color: #fff;
+	background-color: #00CC00;
+}
+/*all button css ends*/
+
+
+/*soctal logo section starts*/
+.logo{
+	width: 20%;
+	float: left;
+
+}
+.logo img{
+	display: block;
+	width: 150px;
+}
+/*soctal logo section ends*/
+
+/*main menu section starts */
+.MainMenu{
+
+	width: 50%;
+	float: left;
+	display: block;
+	
+}
+
+
+nav{
+	margin: 37px;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin: 0px 15px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #606060;
+	font-size: 15px;
+
+}
+
+/*main menu section ends */
+
+
+/*social icon section starts*/
+.icon{
+	width: 30%; 
+	float: left;
+	padding:35px 0px;
+	
+}
+.icon ul {
+	
+	
+}
+.icon ul li{
+	display: inline-block;
+	margin: 0px 7px;
+	
+}
+
+
+.fa.fa-facebook{
+	background-color: black;
+	color:#fff;
+	padding: 5px 7px;
+	transition: 0.4s ease;
+}
+.fa.fa-facebook:hover{
+	background-color: #5576BA;
+	
+}
+.fa.fa-twitter{
+	background-color: black;
+	color:#fff;
+	padding: 5px;
+	transition: 0.4s ease;
+}
+.fa.fa-twitter:hover{
+	background-color: #fff;
+	color: #1DA1F2;
+}
+.fa.fa-linkedin{
+	background-color: black;
+	color:#fff;
+	padding: 5px;
+	transition: 0.4s ease;
+}
+.fa.fa-linkedin:hover{
+	background-color: #0077B5;
+}
+.fa.fa-google-plus-square{
+	background-color: black;
+	color:#fff;
+	padding: 5px;
+	transition: 0.4s ease;
+}
+.fa.fa-google-plus-square:hover{
+	background-color: #DD4B39;
+}
+
+.fa.fa-sign-in{
+	padding: 5px;
+	transition: 0.4s ease;
+}
+.fa.fa-sign-in:hover{
+	background-color: #009900;
+	color: #fff;
+	
+}
+
+/*social icon section ends*/
+
+
+/*1st image section starts */
+
+.banner{
+	float: left;
+    background :url(../img/busi.jpg)no-repeat;
+    background-size: cover;
+	width: 100%;
+	height: 500px;
+ border: 5px solid #333300;
+ border-radius: 5px;
+  
+	
+	
+	}
+.monitor{
+	padding: 30px;
+	margin: 110px auto;
+	
+}
+
+	
+section{
+	width: 100%;
+	float: left;
+}
+/*1st image section ends */
+
+
+/*section two starts*/
+
+.sectionTwoCenter{
+	padding: 20px;
+}
+
+.fa.fa-check-circle{
+	text-align: #fff;
+	color: #fff;
+	background-color: #4C0099;
+	padding: 10px;
+	border-radius: 20px;
+}
+.berthoLogo{
+	text-align: center;
+}
+
+
+
+.OnSecTwoDivOne{
+	
+	width: 20%;
+	padding: 10px;
+	margin: 5px;
+	float: left;
+}
+
+
+.readMore{
+	background-color: #E0E0E0;
+	color: white;
+	margin:auto;
+	text-align: center;
+	
+	text-decoration: none;
+	
+}
+.OnSecTwoDivTwo{
+	
+	width: 20%;
+	padding: 10px;
+	margin: 5px;
+	float: left;
+}
+.fa.fa-map-marker{
+	background-color: #006600;
+	color: #fff;
+	padding: 10px;
+	border-radius: 60px;
+
+}
+.OnSecTwoDivThree{
+	
+	width: 20%;
+	padding: 10px;
+	margin: 5px;
+	float: left;
+}
+.fa.fa-money{
+	background-color: #00CC00;
+	color: #fff;
+	padding: 10px;
+	border-radius: 20px;
+}
+.OnSecTwoDivFour{
+	
+	width: 20%;
+	padding: 10px;
+	
+	margin: 5px;
+	float: left;
+}
+.fa.fa-user-circle{
+	background-color: #66CC00;
+	color: #fff;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+
+/*section three*/
+.yamaha{
+	width: 100%;
+	
+	display: block;
+}
+.OnSecThreeDivOne{
+	background-color: #A0A0A0A0;
+	width: 40%;
+	padding:20px 12px 20px 20px;
+	margin: 40px;
+	float: left;
+}
+.OnSecThreeDivOne ul li{
+	list-style: square;
+
+}
+.OnSecThreeDivTwo{
+	background-color: #A0A0A0A0;
+	
+	width: 40%;
+	padding: 20px 12px 20px 20px;
+	margin: 40px;
+	float: left;
+}
+.OnSecThreeDivTwo ul li{
+	list-style:square;
+}
+
+
+/*section four*/
+
+
+
+/*.OnSecFourDiv{
+	text-align: center;
+
+}*/
+h3{
+	color: #333300;
+}
+.OnSecFourDivOne{
+	width: 30%;
+	float: left;
+	margin:0px 80px;
+	padding: 25px;
+}
+.OnSecFourDivTwo{
+	width: 30%;
+	float: left;
+	margin: 0px 80px;
+	padding: 25px;
+}
+
+
+/*secFiveDiv*/
+.secFiveDiv{
+	background-color: #C0C0C0;
+}
+
+/***************************/
+.fa.fa-credit-card{
+	padding:  0px 3px 0px 0px;
+	
+}
+/***************************/
+
+.secFiveDiv ul {
+	text-align: center;
+	list-style:none;
+	display: block;
+}
+
+
+/*Star section*/
+
+.secSixDiv{
+	margin: 20px;
+	text-align: center;
+	background-color: #CCCCFF;
+	
+}
+
+
+/*last er ager ta*/
+
+.secondLastP{
+	text-align: center;
+	margin: 10px;
+}
+.secondLast{
+	width: 100%;
+	float: left;
+	background-color: #E5CCFF;
+	padding: 30px 3px;
+}
+.SecoundLastOne{
+	width: 20%;
+	float: left;
+
+}
+.SecoundLastTwo{
+	width: 20%;
+	float: left;
+
+}
+.SecoundLastThree{
+	width: 20%;
+	float: left;
+}
+.SecoundLastFour{
+	width: 20%;
+	float: left;
+}
+.SecoundLastFive{
+	width: 20%;
+	float: left;
+}
+
+
+/*last section*/
+
+.LastSection{
+	/*background-color: #000033;*/
+	height: 40px;
+	color: #999900;
+}
+
+.LastSectionOne{
+	width: 40%;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+	text-align: right;
+	
+}
+.LastSectionTwo{
+	width: 40%;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+	text-align: center;
+	
+}
